@@ -1,5 +1,5 @@
 pragma solidity 0.8.0;
-contract RDToken {
+contract Token {
 string private _name;
 string private _symbol;
 uint8 private _decimals;
