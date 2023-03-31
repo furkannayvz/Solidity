@@ -1,6 +1,6 @@
 pragma solidity 0.8.0;
 
-contract dummy_token{
+contract token{
 string private _name;
 string private _symbol;
 uint8 private _decimals;
